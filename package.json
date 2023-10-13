@@ -1,0 +1,21 @@
+{
+  "name": "one-monokai-dark-blue",
+  "displayName": "one monokai dark blue",
+  "description": "a theme base on one monokai from Azemoh",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "one monokai dark blue",
+        "uiTheme": "vs-dark",
+        "path": "./themes/one monokai dark blue-color-theme.json"
+      }
+    ]
+  }
+}
